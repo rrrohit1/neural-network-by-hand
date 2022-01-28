@@ -1,6 +1,6 @@
 # Building a NN from scratch
 
-In this implemenetation, I will be implementing a one-hidden-layer neural network for classification. 
+In this implemenetation, I will be implementing a one-hidden-layer neural network for digit classification. 
 
 Libraries to be used:
 - Numpy
